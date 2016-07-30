@@ -1,6 +1,6 @@
-BaseUrl: "http://example.com"
+BaseUrl: "http://healthsquare.com.au"
 LanguageCode: "en-us"
-Title: "Beg"
+Title: "Healthsquare"
 
 Params:
   Author: "Your name."
@@ -10,7 +10,7 @@ Params:
   Twitter: "Your ID."
   Github: "Your ID."
   ShowRelatedPost: True
-  Disqus: "Your Disqus."
+  Disqus: "aushealthcare."
   SyntaxHighlightTheme: "solarized_dark.min.css"
 
 Indexes:
