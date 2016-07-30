@@ -2,12 +2,12 @@ languageCode = "en-us"
 contentdir = "content"
 publishdir = "public"
 builddrafts = false
-baseUrl = ""
+baseUrl = "http://thezeitguy.github.io"
 canonifyurls = true
 
 
-title = "Shiori"
-author = "Shu Uesugi"
+title = "Healthsquare"
+author = "Healthsquare"
 
 # [params]
 #     author_name = "Shu Uesugi"
