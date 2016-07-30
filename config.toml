@@ -4,7 +4,7 @@ publishdir = "public"
 builddrafts = false
 baseUrl = "http://thezeitguy.github.io"
 canonifyurls = true
-
+theme = ""
 
 title = "Healthsquare"
 author = "Healthsquare"
