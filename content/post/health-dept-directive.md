@@ -4,7 +4,7 @@ draft = true
 title = "health dept directive"
 
 +++
-## Health department to approve PHN plans ##
+## Health department 'to veto commissioining proposals' ##
 
 The Department of Health and Ageing has instructed primary health networks to submit their propoproposals for mental health reform 
 
