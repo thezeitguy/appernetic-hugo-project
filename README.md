@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![screenshot](https://raw.githubusercontent.com/dim0627/hugo_theme_beg/master/images/screenshot.png)
 
 # Features
@@ -61,3 +62,7 @@ Please mail to `dim0627@gmail.com` or SNS.
 
 [https://www.facebook.com/daisuke.tsuji.735](https://www.facebook.com/daisuke.tsuji.735)
 
+=======
+# appernetic-hugo-project
+Hugo Project
+>>>>>>> f797d36381b947a2d2261c77f7d9ffc450261c2b
